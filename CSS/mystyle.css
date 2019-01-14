@@ -1,3 +1,9 @@
+html,
+		body {
+		  height: 100%;
+		  width: 100%;
+		}
+
 #footer{
     background-color: beige;
 }
@@ -26,14 +32,10 @@
     text-decoration: none;
 }
 
-#menu ul li a hover{
+#menu ul li a :hover{
     background-color: blanchedalmond;
 }
 
-html,
-		body {
-		  height: 100%;
-		  width: 100%;
-		}
+
 
     
